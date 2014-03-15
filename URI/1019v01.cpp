@@ -17,5 +17,7 @@ int main()
         (interval != 1)? cout << ":" : cout << endl ;
         interval /= 60;
     }
+    
+    return 0;
 
 }
